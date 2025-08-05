@@ -1,0 +1,36 @@
+[0.719s] Invoking command in '/home/edward/ros2_demo/chapt3/topic_ws/src/demo_python_topic': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_python_topic build --build-base /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build install --record /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/install.log --single-version-externally-managed install_data
+[0.977s] running egg_info
+[0.977s] creating ../../build/demo_python_topic/demo_python_topic.egg-info
+[0.992s] writing ../../build/demo_python_topic/demo_python_topic.egg-info/PKG-INFO
+[0.993s] writing dependency_links to ../../build/demo_python_topic/demo_python_topic.egg-info/dependency_links.txt
+[0.993s] writing requirements to ../../build/demo_python_topic/demo_python_topic.egg-info/requires.txt
+[0.993s] writing top-level names to ../../build/demo_python_topic/demo_python_topic.egg-info/top_level.txt
+[0.993s] writing manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.032s] reading manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.032s] adding license file 'LICENSE'
+[1.033s] writing manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.033s] running build
+[1.033s] running build_py
+[1.033s] creating /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build
+[1.033s] creating /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build/lib
+[1.033s] creating /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic
+[1.033s] copying demo_python_topic/__init__.py -> /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic
+[1.034s] copying demo_python_topic/novel_pub_node.py -> /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic
+[1.034s] running install
+[1.039s] running install_lib
+[1.056s] creating /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic
+[1.056s] copying /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic/__init__.py -> /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic
+[1.056s] copying /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic/novel_pub_node.py -> /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic
+[1.057s] byte-compiling /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/__init__.py to __init__.cpython-312.pyc
+[1.057s] byte-compiling /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/novel_pub_node.py to novel_pub_node.cpython-312.pyc
+[1.058s] running install_data
+[1.058s] creating /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/share/ament_index
+[1.058s] creating /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/share/ament_index/resource_index
+[1.058s] creating /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/share/ament_index/resource_index/packages
+[1.058s] copying resource/demo_python_topic -> /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/share/ament_index/resource_index/packages
+[1.058s] copying package.xml -> /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/share/demo_python_topic
+[1.058s] running install_egg_info
+[1.076s] Copying ../../build/demo_python_topic/demo_python_topic.egg-info to /home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic-0.0.0-py3.12.egg-info
+[1.077s] running install_scripts
+[1.203s] writing list of installed files to '/home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/install.log'
+[1.232s] Invoked command in '/home/edward/ros2_demo/chapt3/topic_ws/src/demo_python_topic' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edward/ros2_demo/chapt3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_python_topic build --build-base /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/build install --record /home/edward/ros2_demo/chapt3/topic_ws/build/demo_python_topic/install.log --single-version-externally-managed install_data
